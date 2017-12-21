@@ -2,8 +2,6 @@
 This project contains a few classification and regression algorithmns that are used to predict Freddie Mac's Single family loan default performance. The main algorithmns include: Logistic regression, Gradient Boosting, Random Forest, GLMNET regression, neural network, etc.
 
 ## Data Labels
-2 HPI files are from Fed's website, you can ignore them.
-
 'integrated_data.csv' are the final version of the data with no NULL values inside.
 
 It has around 2.5 million loans originated from Q42009 to Q42011.
